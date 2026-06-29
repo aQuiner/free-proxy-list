@@ -30,4 +30,4 @@
 
 ## Disclaimer
 
-This repository aggregates publicly available proxy servers. Availability, speed and reliability may vary over time.
+This repository aggregates publicly available proxy servers. Availability, speed and reliability may vary over time
