@@ -1,24 +1,16 @@
 # Free Proxy List
 
-🚀 Automatically updated collection of free HTTP, HTTPS, SOCKS4 and SOCKS5 proxies.
+🚀 Automatically updated collection of free HTTP proxies.
 
 ## Features
 
 * ⚡ Fresh proxies updated automatically
 * 🌍 Worldwide public proxy sources
-* 🔒 HTTP, HTTPS, SOCKS4 & SOCKS5 support
 * ✅ Automatic proxy validation
-* 📈 Large continuously refreshed database
-* 🆓 Completely free
-* 🤖 GitHub Actions automation
-* 💻 Ready for scripts, bots and developers
 
 ## Supported Protocols
 
 * HTTP
-* HTTPS
-* SOCKS4
-* SOCKS5
 
 ## Use Cases
 
